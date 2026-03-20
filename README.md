@@ -234,4 +234,4 @@ Built with modern web technologies and best practices to deliver a professional,
 
 ---
 
-**Made with ❤️ by Sumant Yadav**
+**Made with ❤️ by Nandini Tak**
